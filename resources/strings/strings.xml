@@ -1,0 +1,23 @@
+<strings>
+    <string id="AppName">Pomodoro</string>
+
+    <string id="WorkingTime">Working Time</string>
+    <string id="ShortBreakTime">Short Break Time</string>
+    <string id="LongBreakTime">Long Break Time</string>
+    <string id="Cycles">Cycles</string>
+
+    <string id="LoopInfinitely">Loop Infinitely</string>
+    <string id="DisplayTime">Display Time</string>
+    <string id="Vibrate">Vibrate</string>
+    <string id="PlayTone">PlayTone</string>
+
+    <string id="Reset">Reset</string>
+    <string id="Exit">Exit</string>
+
+    <string id="On">On</string>
+    <string id="Off">Off</string>
+
+    <string id="Working">Working</string>
+    <string id="ShortBreak">Short Break</string>
+    <string id="LongBreak">Long Break</string>
+</strings>

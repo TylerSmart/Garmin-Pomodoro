@@ -1,0 +1,11 @@
+<properties>
+  <property id="WorkingTime" type="number">1500</property>
+  <property id="ShortBreakTime" type="number">300</property>
+  <property id="LongBreakTime" type="number">1800</property>
+  <property id="Cycles" type="number">2</property>
+
+  <property id="LoopInfinitely" type="boolean">false</property>
+  <property id="DisplayTime" type="boolean">true</property>
+  <property id="Vibrate" type="boolean">true</property>
+  <property id="PlayTone" type="boolean">true</property>
+</properties>

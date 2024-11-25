@@ -1,0 +1,10 @@
+<menu2 id="MainMenu" title="Settings">
+    <menu-item id="WorkingTime" label="@Strings.WorkingTime" />
+    <menu-item id="ShortBreakTime" label="@Strings.ShortBreakTime" />
+    <menu-item id="LongBreakTime" label="@Strings.LongBreakTime" />
+    <menu-item id="Cycles" label="@Strings.Cycles" />
+    <toggle-menu-item id="LoopInfinitely" label="@Strings.LoopInfinitely" checked="true" />
+    <toggle-menu-item id="DisplayTime" label="@Strings.DisplayTime" checked="true" />
+    <toggle-menu-item id="Vibrate" label="@Strings.Vibrate" checked="true" />
+    <toggle-menu-item id="PlayTone" label="@Strings.PlayTone" checked="true" />
+</menu2>

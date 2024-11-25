@@ -1,0 +1,27 @@
+<settings>
+  <setting propertyKey="@Properties.WorkingTime" title="@Strings.WorkingTime">
+    <settingConfig type="numeric" min="1" max="86400" />
+  </setting>
+  <setting propertyKey="@Properties.ShortBreakTime" title="@Strings.ShortBreakTime">
+    <settingConfig type="numeric" min="1" max="86400" />
+  </setting>
+  <setting propertyKey="@Properties.LongBreakTime" title="@Strings.LongBreakTime">
+    <settingConfig type="numeric" min="1" max="86400" />
+  </setting>
+  <setting propertyKey="@Properties.Cycles" title="@Strings.Cycles">
+    <settingConfig type="numeric" min="1" max="9" />
+  </setting>
+
+  <setting propertyKey="@Properties.LoopInfinitely" title="@Strings.LoopInfinitely">
+    <settingConfig type="boolean" />
+  </setting>
+  <setting propertyKey="@Properties.DisplayTime" title="@Strings.DisplayTime">
+    <settingConfig type="boolean" />
+  </setting>
+  <setting propertyKey="@Properties.Vibrate" title="@Strings.Vibrate">
+    <settingConfig type="boolean" />
+  </setting>
+  <setting propertyKey="@Properties.PlayTone" title="@Strings.PlayTone">
+    <settingConfig type="boolean" />
+  </setting>
+</settings>
